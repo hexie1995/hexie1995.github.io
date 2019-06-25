@@ -1,7 +1,10 @@
+```
 ---
 layout: page
 title: Research
 ---
+```
+
 
 ## Current Project
 
