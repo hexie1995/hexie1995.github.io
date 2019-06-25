@@ -20,5 +20,3 @@ I am a first-year PhD student at [Department of Mathematics at UNC Chapel Hill](
 
 ## Contact
 Email me at [hexie[at]unc[dot]edu](hexie@unc.edu) or visit my [GitHub](https://github.com/hexie1995) and leave me a message.
-
-##
