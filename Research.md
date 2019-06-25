@@ -16,4 +16,4 @@ title: Research
 * 2018 UCLA Applied Math REU Subgraph Matching
 
 ## Contact
-Email me at [hexie[at]unc[dot]edu](hexie@unc.edu) or visit my [GitHub](https://github.com/hexie1995) and leave me a message.
+Email me at [hexie[at]unc[dot]edu](mailto:hexie@unc.edu) or visit my [GitHub](https://github.com/hexie1995) and leave me a message.
