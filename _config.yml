@@ -25,6 +25,15 @@ paginate:         1
 paginate_path:    "/blog/page:num/"
 blog_url:        "/blog/"
 
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      
+
 # Configure prose
 prose:
   metadata:
