@@ -1,9 +1,8 @@
-```
 ---
 layout: page
 title: About
 ---
-```
+
 
 
 ## Currem
