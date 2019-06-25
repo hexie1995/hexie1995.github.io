@@ -2,8 +2,10 @@
 ```
 ---
 layout: page
+permalink: /
 title: Research
 ---
+
 ```
 
 ## Current Project
