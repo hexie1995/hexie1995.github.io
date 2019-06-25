@@ -1,7 +1,5 @@
 ---
 layout: page
-titel: Research
-
 ---
 My main interest is Network science and everything around it. I have experiences with community detection, network embedding and subgraph matching.
 
