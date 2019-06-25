@@ -20,7 +20,7 @@ author:
   url:            https://hexie1995.github.io
 
 # Blog configuration
-has_blog:         True
+has_blog:         False
 paginate:         1
 paginate_path:    "/blog/page:num/"
 blog_url:        "/blog/"
