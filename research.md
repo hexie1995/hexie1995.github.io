@@ -1,10 +1,4 @@
-```
----
-layout: page
-title: Rsearch
----
-```
-
+layout:page
 ## Research
 * Multilayer Network with APS dataset advising by [Peter Mucha](http://mucha.web.unc.edu/) and [Mason Porter](https://www.math.ucla.edu/~mason/)
 * 2019 UCLA Applied Math REU Subgraph Matching on Multichannel Network.
