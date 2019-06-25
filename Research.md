@@ -1,13 +1,4 @@
 
-```
----
-layout: page
-permalink: /
-title: Research
----
-
-```
-
 ## Current Project
 
 * Multilayer Network with APS dataset advising by [Peter Mucha](http://mucha.web.unc.edu/) and [Mason Porter](https://www.math.ucla.edu/~mason/)
