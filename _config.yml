@@ -8,16 +8,16 @@ permalink:        pretty
 
 # Setup
 title:            Hyde
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://jacob.moorman.me/hyde
+description:      'Hi, this is Xie. I am a first year Ph.D. student at UNC-Chapel Hill Mathematics department.'
+url:              https://hexie1995.github.io/
 baseurl:          ""
 
 # Options: 7, 8, 9, a, b, c, d, e, f
 theme_id: "7"
 
 author:
-  name:           'Jacob Moorman'
-  url:            https://jacob.moorman.me/
+  name:           'Xie He'
+  url:            https://hexie1995.github.io
 
 # Blog configuration
 has_blog:         True
