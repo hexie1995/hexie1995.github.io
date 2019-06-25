@@ -1,4 +1,10 @@
 
+```
+---
+layout: page
+title: About
+---
+```
 ## Past Experience
 
 I start to be interested in working with Big data after a reading course in my third year
@@ -15,4 +21,3 @@ I start to be interested in working with Big data after a reading course in my t
 
 ## Contact
 Email me at [hexie[at]unc[dot]edu](hexie@unc.edu) or visit my [GitHub](https://github.com/hexie1995) and leave me a message.
-
