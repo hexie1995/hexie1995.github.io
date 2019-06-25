@@ -7,8 +7,8 @@ plugins:          [jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Hyde
-description:      'Hi, this is Xie. I am a first year Ph.D. student at UNC-Chapel Hill Mathematics department.'
+title:            Xie He
+description:      'Hi, this is Xie. I am a first year Ph.D. student at UNC-Chapel Hill Mathematics department. My field of interest is Network theory. Please email me at hexie@unc.edu'
 url:              https://hexie1995.github.io/
 baseurl:          ""
 
