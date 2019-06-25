@@ -1,30 +1,27 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /
 published: true
 ---
 
 <p class="message">
  Email: hexie@unc.edu
+ 
+ 
  Github: https://github.com/hexie1995/
 </p>
 
-I was born in Shanghai, China and recived my bachelor degree in Applied Mathematics from UCLA.
+## Intro
 
-There are currently two themes built on Poole:
-
-* [Github](https://github.com/hexie1995/)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
+I am a first-year PhD student at [Department of Mathematics at UNC Chapel Hill](https://math.unc.edu/) and my advisor is [Peter Mucha](http://mucha.web.unc.edu/). I am interested in Network analysis, Community Detection, Scientific computing and Machine learning.
 
 ## Fun fact
 
-* I enjoy writing on AO3
-* Stardew Valley and Fromsoft games huge fan
-* Enjoy Anime and Japnaese food
+* I enjoy writing novels on AO3
+* I am a huge fan of Stardew Valley and Fromsoft games
+* I like anime and Japnaese food
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? 
 
 Thanks for reading!
