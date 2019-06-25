@@ -6,10 +6,8 @@ published: true
 ---
 
 <p class="message">
- Email: hexie@unc.edu
- 
- Github: https://github.com/hexie1995/
-</p>
+"I have hardly ever known a mathematician who was capable of reasoning." --Plato
+</p> 
 
 I am a first-year PhD student at [Department of Mathematics at UNC Chapel Hill](https://math.unc.edu/) and my advisor is [Peter Mucha](http://mucha.web.unc.edu/). I am interested in Network analysis, Community Detection, and Machine learning. I graudated from UCLA in 2019 with BS degree in Applied Mathematics.
 
