@@ -4,8 +4,10 @@ title: Research
 permalink: /
 published: true
 ---
+My main interest is Network science and everything around it. I have experiences with community detection, network embedding and subgraph matching.
 
-## Research
+
+## Current Projects
 * Multilayer Network with APS dataset advising by [Peter Mucha](http://mucha.web.unc.edu/) and [Mason Porter](https://www.math.ucla.edu/~mason/)
 * 2019 UCLA Applied Math REU Subgraph Matching on Multichannel Network.
 
