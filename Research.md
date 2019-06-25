@@ -1,20 +1,16 @@
 ---
 layout: page
-title: About
+title: Research
 ---
 
+## Current Project
 
-
-## Currem
-
-
-[Peter Mucha](http://mucha.web.unc.edu/)
+* Multilayer Network with APS dataset advising by [Peter Mucha](http://mucha.web.unc.edu/) and [Mason Porter](https://www.math.ucla.edu/~mason/)
+* 2019 UCLA Applied Math REU Subgraph Matching on Multichannel Network.
 
 ## Presentaions
 
-* 
-* I
-* 
+* 2018 UCLA Applied Math REU Subgraph Matching
 
 ## Contact
 Email me at [hexie[at]unc[dot]edu](hexie@unc.edu) or visit my [GitHub](https://github.com/hexie1995) and leave me a message.
