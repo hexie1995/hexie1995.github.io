@@ -4,7 +4,7 @@ title: About
 permalink: /
 published: true
 ---
-
+![]({{site.baseurl}}//public/throw_cap.jpg)
 <p class="message">
 "I have hardly ever known a mathematician who was capable of reasoning." --Plato
 </p> 
