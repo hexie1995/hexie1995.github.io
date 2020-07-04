@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Comp Study Guide
-permalink: /
-published: true
 ---
 
 
